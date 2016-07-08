@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="d20160628" />
+    <orderEntry type="module" module-name="d20160703" />
+    <orderEntry type="module" module-name="d20160702" />
+    <orderEntry type="module" module-name="d20160705" />
+    <orderEntry type="module" module-name="signature" />
+  </component>
+</module>
